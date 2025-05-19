@@ -1,9 +1,10 @@
-portifolio/
+seu-repositorio/
 │
 ├── index.html
 ├── style.css
 └── img/
-    └── avatar-perfil.png (C:\Windows\Portifolio)
+    └── avatar-perfil.png
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -15,6 +16,7 @@ portifolio/
 <body>
 
 <header>
+  <!-- Foto do avatar -->
   <img src="img/avatar-perfil.png" alt="Avatar de Rafael" class="avatar" />
   <h1>Rafael - Desenvolvedor Web</h1>
 </header>
@@ -34,7 +36,7 @@ portifolio/
   </ul>
 </section>
 
-<!-- Adicione mais seções aqui -->
+<!-- Você pode adicionar mais seções aqui -->
 
 </body>
 </html>
@@ -54,7 +56,7 @@ header {
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  object-fit: cover;
+  object-fit: cover; /* Garante que a imagem fique redonda e ajustada */
 }
 
 h1 {
@@ -75,9 +77,10 @@ h2 {
 ul {
   list-style-type: square;
 }
+
 git init
 git add .
-git commit -m "Portfólio básico"
-git branch -M main   # se necessário, para criar o branch main
+git commit -m "Atualização do portfólio com foto"
+git branch -M main
 git remote add origin https://github.com/seu-usuario/seu-repositorio.git
 git push -u origin main
