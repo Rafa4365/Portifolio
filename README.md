@@ -1,7 +1,8 @@
 index.html
 <!DOCTYPE html>
 <img>
-"><img src="caminho/da/sua/imagem.jpg" alt="rafa.jpg">
+">
+<img src="imagens/minha-foto.jpg" alt="rafa.jpg" width="200" height="200" />
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
