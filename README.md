@@ -1,6 +1,6 @@
 index.html
 <!DOCTYPE html>
-"imagens/minha-foto.jpg"
+<img src="imagens/minha-foto.jpg" alt="Minha Foto">
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -44,6 +44,7 @@ index.html
   </header>
 
   <section id="sobre">
+    <img src="imagens/minha-foto.jpg" alt="Minha Foto">
     <h2>Sobre Mim</h2>
     <p>Sou um desenvolvedor apaixonado por criar soluções web. Aqui estão alguns dos meus projetos.</p>
   </section>
