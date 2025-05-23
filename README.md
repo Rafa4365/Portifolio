@@ -1,7 +1,7 @@
 index.html
 <!DOCTYPE html>
 <img>
-"><img src="caminho/da/sua/imagem.jpg" alt="https://files.fm/u/wh2whbxw4j)">
+"><img src="caminho/da/sua/imagem.jpg" alt="https://files.fm/u/wh2whbxw4j">
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
