@@ -2,7 +2,7 @@ index.html
 <!DOCTYPE html>
 <img>
 ">
-<img src="caminho/para/sua-foto.jpg" alt="Minha foto" />
+<img src="caminho/para/sua-foto.jpg" alt="[Minha foto](https://github.com/settings/profile)" />
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
