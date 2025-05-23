@@ -39,7 +39,7 @@ index.html
 <body>
   <header>
     <h1>Meu Portfólio</h1>
-    <p>Desenvolvido por [Seu Nome]</p>
+    <p>Desenvolvido por [Rafael Praxedes Rodrigues]</p>
   </header>
 
   <section id="sobre">
@@ -56,14 +56,14 @@ index.html
     </div>
     <div class="projeto">
       <h3>Projeto 2: App de Tarefas</h3>
-      <p>Descrição do projeto. Tecnologias usadas: React, Node.js.</p>
+      <p>Descrição do projeto. Programação: React, Node.js.</p>
       <a href="https://github.com/seuusuario/projeto2" target="_blank">Ver no GitHub</a>
     </div>
   </section>
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Entre em contato comigo pelo email: seuemail@exemplo.com</p>
+    <p>Entre em contato comigo pelo email: seu rpraxedes@prof.educacao.sp.gov.br</p>
   </section>
 </body>
 </html>
