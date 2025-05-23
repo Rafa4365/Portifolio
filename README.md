@@ -42,7 +42,7 @@ index.html
 <body>
   <header>
     <h1>Meu Portfólio</h1>
-    <p>Desenvolvido por Rafael Praxedes Rodrigues /p>
+    <p>Desenvolvido por Rafael Praxedes Rodrigues 
   </header>
 
   <section id="sobre">
