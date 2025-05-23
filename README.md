@@ -1,5 +1,7 @@
 index.html
 <!DOCTYPE html>
+<img>
+<img src="imagens/minha-foto.jpg" alt="Minha foto" width="200" height="200" />
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
