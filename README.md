@@ -78,6 +78,62 @@ ul {
   list-style-type: square;
 }
 
+@@ -381,14 +381,6 @@ <h1 class="display-4 titulos">Contatos</h1>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="js/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script>
+        var $doc = $('html, body');
+            $('a[href*="#"]:not([href="#"])').click(function () {
+                $doc.animate({
+                    scrollTop: $($.attr(this, 'href')).offset().top
+                }, 500);
+                return false;
+            });
+    </script>
+    <script src="js/scroll.js"></script>
+</body>
+</html>
+
+@@ -0,0 +1,17 @@
+/**
+ * @file: scroll.js
+ * @author: Paulo Alves
+ * @description: script responsável pela configuração de uso do scroll nos links internos da página index. 
+ * @version 1.0.1 (07/06/2020)
+ */
+
+var $doc = $("html, body");
+$('a[href*="#"]:not([href="#"])').click(function () {
+  $doc.animate(
+    {
+      scrollTop: $($.attr(this, "href")).offset().top,
+    },
+    500
+  );
+  return false;
+});
+
+
+@@ -0,0 +1,17 @@
+/**
+ * @file: scroll.js
+ * @author: Paulo Alves
+ * @description: script responsável pela configuração de uso do scroll nos links internos da página index. 
+ * @version 1.0.1 (07/06/2020)
+ */
+
+var $doc = $("html, body");
+$('a[href*="#"]:not([href="#"])').click(function () {
+  $doc.animate(
+    {
+      scrollTop: $($.attr(this, "href")).offset().top,
+    },
+    500
+  );
+  return false;
+});
+
 git init
 git add .
 git commit -m "Atualização do portfólio com foto"
