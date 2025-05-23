@@ -1,6 +1,7 @@
 index.html
 <!DOCTYPE html>
-<img src="imagens/minha-foto.jpg" alt="Minha Foto">
+<img src="imagens/minha-foto.jpg" alt="![rafa](https://github.com/user-attachments/assets/25b05802-08fe-4cb8-9ed0-10a3d285cf23)
+">
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
