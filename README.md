@@ -1,8 +1,5 @@
 index.html
 <!DOCTYPE html>
-<img>
-">
-<img src="imagens/minha-foto.jpg" alt="rafa.jpg" width="200" height="200" />
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -42,11 +39,10 @@ index.html
 <body>
   <header>
     <h1>Meu Portfólio</h1>
-    <p>Desenvolvido por Rafael Praxedes Rodrigues 
+    <p>Desenvolvido por Rafael Praxedes Rodrigues</p>
   </header>
 
   <section id="sobre">
-    
     <h2>Sobre Mim</h2>
     <p>Sou um desenvolvedor apaixonado por criar soluções web. Aqui estão alguns dos meus projetos.</p>
   </section>
@@ -60,14 +56,14 @@ index.html
     </div>
     <div class="projeto">
       <h3>Projeto 2: App de Tarefas</h3>
-      <p>Descrição do projeto. Programação: React, Node.js.</p>
+      <p>Descrição do projeto. Tecnologias usadas: React, Node.js.</p>
       <a href="https://github.com/seuusuario/projeto2" target="_blank">Ver no GitHub</a>
     </div>
   </section>
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Entre em contato comigo pelo email: seu rpraxedes@prof.educacao.sp.gov.br</p>
+    <p>Entre em contato comigo pelo email: seu rpraxedes@prof.educacacao.sp.gov.br</p>
   </section>
 </body>
 </html>
