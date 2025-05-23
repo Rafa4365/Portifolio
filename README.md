@@ -2,7 +2,7 @@ index.html
 <!DOCTYPE html>
 <img>
 ">
-<img src="imagens/minha-foto.jpg" alt="Dowloads portifolio" width="200" height="200" />
+<img src="caminho/para/sua-foto.jpg" alt="Minha foto" />
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -46,7 +46,7 @@ index.html
   </header>
 
   <section id="sobre">
-    <img src="imagens/minha-foto.jpg" alt="Minha Foto">
+    
     <h2>Sobre Mim</h2>
     <p>Sou um desenvolvedor apaixonado por criar soluções web. Aqui estão alguns dos meus projetos.</p>
   </section>
