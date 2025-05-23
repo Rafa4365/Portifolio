@@ -1,5 +1,6 @@
 index.html
 <!DOCTYPE html>
+"imagens/minha-foto.jpg"
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
